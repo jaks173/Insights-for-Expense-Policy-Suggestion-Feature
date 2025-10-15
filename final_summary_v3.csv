@@ -1,0 +1,47 @@
+org_id,org_name,admin_user_ids,admin_emails,admin_user_count,non_admin_user_count,no_of_expenses_in_march,expense_policies_present,no_of_expense_policies_created,no_of_active_users,total_expense_amount,total_users_who_expensed,most_common_expense_type,total_expense_types
+10,"Thomas, Velasquez and James","240,243,242,241","guerreroamanda@example.com,kristi55@example.org,cindywilson@example.com,bsmall@example.com",4,40,260,No,0,39,303105.72,41,CORPORATE_CARD,1
+11,"Russell, Hill and Barrett","285,286,284","stacieshaw@example.net,edgar18@example.com,kristina90@example.org",3,35,262,No,0,34,343372.41,35,CORPORATE_CARD,1
+12,Cook-Rivera,"323,322","vmcknight@example.com,laradrew@example.org",2,23,108,Yes,9,21,199371.71,22,REIMBURSABLE,2
+13,Hicks PLC,"347,349,348","cjohnston@example.com,amber10@example.com,stephanieberg@example.org",3,35,319,Yes,7,31,400915.76,32,CORPORATE_CARD,1
+14,Barrett PLC,"387,386,385","williamschaefer@example.com,schwartzmelinda@example.net,scooper@example.com",3,34,255,Yes,3,30,344838.06,31,CORPORATE_CARD,1
+15,"Cortez, Mckay and Santiago","423,422","jeffreyheath@example.org,torresbradley@example.com",2,26,116,Yes,3,22,206947.39,23,CORPORATE_CARD,2
+16,"Mckinney, Stone and Martin","452,451,450","gabriellee@example.com,kari75@example.com,wheelerrichard@example.net",3,29,281,Yes,8,29,359747.10,29,CORPORATE_CARD,1
+17,Sims and Sons,482,ryan49@example.net,1,18,89,No,0,15,110340.89,15,CORPORATE_CARD,1
+18,"Love, Bush and Bailey","502,501","penataylor@example.net,haaskurt@example.org",2,23,0,Yes,2,23,107791.24,24,REIMBURSABLE,1
+19,Gilmore Inc,"526,527,528","vhall@example.com,sarahdalton@example.com,lisa77@example.net",3,27,58,Yes,10,10,112041.53,11,CORPORATE_CARD,2
+20,"Wilkerson, Calderon and Allen","557,556","wrodriguez@example.net,adamsjessica@example.org",2,23,69,Yes,4,21,133928.96,21,REIMBURSABLE,2
+21,Sutton-King,"583,581,582,584","vhuber@example.org,kimberlylewis@example.net,carl60@example.org,catherineberry@example.com",4,40,183,Yes,6,36,343929.11,38,CORPORATE_CARD,2
+22,Thomas Ltd,"626,627,625","odyer@example.net,linda97@example.org,milleramanda@example.org",3,36,0,No,0,33,128954.70,34,REIMBURSABLE,1
+23,Smith-Jackson,"665,666,664","cherylturner@example.org,phillipbarton@example.org,yvonnegonzalez@example.org",3,29,208,Yes,5,22,287059.34,23,CORPORATE_CARD,1
+24,Richardson LLC,"697,696","jonesnathan@example.com,johnnystevens@example.com",2,27,212,Yes,4,24,263693.37,25,CORPORATE_CARD,1
+25,Jones and Sons,"727,726,725","timothyfernandez@example.org,matthewskinner@example.org,nelsonkevin@example.org",3,32,87,No,0,28,157254.71,29,CORPORATE_CARD,2
+26,"Barnes, Ramirez and Barton",760,madelinewilliams@example.net,1,17,189,Yes,13,15,227432.77,15,CORPORATE_CARD,1
+27,Glass Group,"779,778","nhanson@example.org,rachel21@example.com",2,27,240,Yes,7,21,312109.55,22,CORPORATE_CARD,1
+28,Reed-Humphrey,807,robin64@example.com,1,16,111,No,0,14,151504.95,14,CORPORATE_CARD,1
+29,Schmitt Ltd,"824,825,826","jamesgreen@example.com,littlejacob@example.com,welchashley@example.net",3,32,296,Yes,10,29,388781.79,29,CORPORATE_CARD,1
+30,Meyers-Nunez,"859,862,861,860","shermanwesley@example.org,slee@example.com,laura44@example.com,jacksonrichard@example.net",4,36,0,Yes,2,11,50218.15,12,REIMBURSABLE,1
+31,Reyes-Houston,"901,900,899","jasoncowan@example.net,jrodriguez@example.com,ashley59@example.net",3,29,115,Yes,6,10,156568.25,10,CORPORATE_CARD,1
+32,Rodriguez-Hernandez,931,kgarza@example.net,1,18,46,Yes,5,15,80088.13,15,CORPORATE_CARD,2
+33,Calhoun-Gardner,"950,951","randallgibson@example.net,matthewhenderson@example.com",2,26,111,Yes,9,25,220645.22,26,REIMBURSABLE,2
+34,Wright-Robbins,"978,980,979","hjenkins@example.org,ymurphy@example.com,cgreen@example.net",3,32,116,Yes,2,28,224130.60,29,REIMBURSABLE,2
+35,"Campbell, Moore and Elliott","1014,1013","henrykaren@example.org,eprice@example.org",2,26,89,Yes,4,25,181751.23,25,REIMBURSABLE,2
+36,Fletcher-Nichols,"1044,1042,1041,1043","hudsondavid@example.net,daniel96@example.net,michelle73@example.net,sherrihawkins@example.org",4,42,229,Yes,7,19,293698.50,20,CORPORATE_CARD,1
+37,Francis and Sons,"1088,1089,1090,1087","christopher61@example.org,robert95@example.org,margaret78@example.org,seanescobar@example.org",4,36,403,Yes,13,33,495911.99,35,CORPORATE_CARD,1
+38,Smith-Davis,"1128,1129,1130,1127","rodney97@example.com,marcbrown@example.net,nelsonsummer@example.org,victoria88@example.com",4,40,260,Yes,5,36,324592.45,37,CORPORATE_CARD,1
+39,"Ramos, Johnson and Harrison","1171,1172","barbaranguyen@example.org,erikcooper@example.net",2,22,86,No,0,19,157035.00,20,CORPORATE_CARD,2
+40,"Kelly, Phillips and Howell","1195,1197,1196","pattersontimothy@example.org,joshua51@example.org,spencer73@example.org",3,28,178,No,0,26,227857.20,27,CORPORATE_CARD,1
+41,Gilmore Inc,"1226,1227","browndaniel@example.net,ann76@example.org",2,21,77,No,0,21,155532.02,22,REIMBURSABLE,2
+42,"Davis, Hayes and Young","1251,1250,1249","smithstephen@example.org,dudleyrachael@example.com,johnscott@example.com",3,27,116,Yes,3,24,216753.32,25,CORPORATE_CARD,2
+43,Monroe Ltd,"1280,1281,1279","qreese@example.net,rphillips@example.org,emoran@example.com",3,28,292,Yes,6,25,363112.04,26,CORPORATE_CARD,1
+44,Johnson-Cardenas,"1312,1310,1311,1313","hpeterson@example.net,marknelson@example.org,drios@example.net,johnny25@example.com",4,38,456,Yes,10,36,571275.96,38,CORPORATE_CARD,1
+45,"Thomas, Berry and Ball","1355,1352,1353,1354","barrynicole@example.com,tracy16@example.org,eblair@example.com,lisa15@example.net",4,36,0,Yes,11,35,196247.58,37,REIMBURSABLE,1
+46,Rodriguez and Sons,"1393,1394,1392","zhawkins@example.com,shirley18@example.com,nmurray@example.com",3,35,161,Yes,7,31,307290.61,32,REIMBURSABLE,2
+47,Robbins-Stevens,"1431,1430","joseph49@example.org,bakergerald@example.org",2,27,145,No,0,25,197390.37,26,CORPORATE_CARD,1
+48,Barajas LLC,"1460,1459","tayloramy@example.com,vasquezsherry@example.net",2,21,148,Yes,2,20,187573.19,20,CORPORATE_CARD,1
+49,Houston-Robinson,"1484,1482,1483,1485","fhernandez@example.org,cjones@example.net,dannygomez@example.com,andrewward@example.com",4,43,78,No,0,18,127683.23,19,CORPORATE_CARD,2
+5,Trial Morgan-Turner,"99,100","duartebryce@example.org,dcarter@example.org",2,18,0,No,0,17,77943.06,18,REIMBURSABLE,1
+50,"Walker, Brown and Ray","1531,1532,1529,1530","fernandobarnes@example.org,qbutler@example.com,kevin91@example.org,robertclark@example.net",4,42,308,Yes,5,39,350918.22,41,CORPORATE_CARD,1
+6,Trial Johnson-Grant,"119,120","hmarsh@example.net,ashleytyler@example.net",2,27,91,No,0,21,165858.47,22,CORPORATE_CARD,2
+7,"Ferguson, Miller and Soto","149,148","jessicahall@example.net,stacey67@example.net",2,19,44,Yes,7,5,84426.34,6,REIMBURSABLE,2
+8,Williams-Nolan,"171,170,169","briggskayla@example.com,kathleen00@example.com,ecabrera@example.org",3,36,137,No,0,33,243117.09,34,REIMBURSABLE,2
+9,Larson Inc,"210,209,208","dawsonrobin@example.net,meganboyd@example.net,april38@example.com",3,29,157,Yes,6,27,289486.90,28,REIMBURSABLE,2
